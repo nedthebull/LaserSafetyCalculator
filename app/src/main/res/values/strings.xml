@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laser Safety Calculator</string>
+    <string name="review_previous_calculations">Review Previous Calculations</string>
+    <string name="new_calculation">New Calculation</string>
+    <string name="laser_title">Laser Title:</string>
+    <string name="button">Button</string>
+</resources>
